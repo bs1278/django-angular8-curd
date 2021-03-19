@@ -7,7 +7,7 @@ Django==2.2.6
 django-cors-headers==3.1.1
 django-summernote==0.8.11.4
 django-tinymce==2.8.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 et-xmlfile==1.0.1
 future==0.18.0
 geocoder==1.38.1
